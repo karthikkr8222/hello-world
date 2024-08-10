@@ -187,8 +187,8 @@
 
       <dependency>
         <groupId>junit</groupId>
-        <artifactId>junit-dep</artifactId>
-        <version>4.13.2</version> <!-- Added version -->
+        <artifactId>junit</artifactId> <!-- Changed to junit from junit-dep -->
+        <version>4.13.2</version> <!-- Updated version -->
         <scope>test</scope>
       </dependency>
 
